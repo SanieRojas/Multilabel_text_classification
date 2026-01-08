@@ -1,4 +1,4 @@
-# Data Science Thesis Work - Classification of Companies industries by leveraging text and free datasets and datasources available
+# Data Science Thesis (Specialization Final Work) - Classification of Companies industries by leveraging text and free datasets and datasources available
 
 Retrieve text data from company websites for classification. These steps collectively contribute to a comprehensive framework for classifying companies based on the content of their websites, incorporating web scraping, NLP, machine learning, and visualization techniques.
 
@@ -44,3 +44,4 @@ Use TensorFlow for machine learning applications in text classification.
 
 Model Evaluation:
 Leverage scikit-learn for metrics and evaluation of machine learning models.
+
